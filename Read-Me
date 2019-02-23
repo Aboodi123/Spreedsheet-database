@@ -1,0 +1,2 @@
+# Spreedsheet-database
+Engine should allow defining of the single table database (determination of field/column names and types: boolean, integer, floating-point, limited-length text, date). For the defined database the engine’s interface should allow to create a database in accordance with the definition and perform operations like: adding records, browsing, searching in selected field or in all fields, sorting by key. An interface that allows the engine to be used to work with several different databases (one at a time).
